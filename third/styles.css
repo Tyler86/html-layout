@@ -1,0 +1,77 @@
+body{
+  height: 100vh;
+  width: 100vw;
+  position:relative;
+  background-color: black;
+}
+.icon
+{
+
+height: 10%;
+width: 8%;
+background-color: #4A90E2;
+position: absolute;
+top:2%;
+left:26%;
+
+
+
+}
+.menuBar
+{
+  margin-left: 24%;
+  margin-right: 3%;
+  width: 50%;
+  height: 15%;
+background-color:#D8D8D8;
+}
+
+
+.content
+{
+  height: 35%;
+  width: 50%;
+  background-color: white;
+  margin-left: 24%;
+}
+.one
+{
+
+  margin-right: 3%;
+  width: 50%;
+  height: 15%;
+background-color:#4A90E2;
+position: absolute;
+top: 40%;
+left: 24%;
+}
+.two
+{
+    margin-right: 3%;
+    width: 50%;
+    height: 15%;
+  background-color:#50E3C2;
+  position: absolute;
+  top: 55%;
+  left: 24%;
+}
+.three
+{
+  margin-right: 3%;
+  width: 50%;
+  height: 15%;
+background-color:#B8E986;
+position: absolute;
+top: 70%;
+left: 24%;
+}
+.four
+{
+  margin-right: 3%;
+  width: 50%;
+  height: 15%;
+background-color:#F8E71C;
+position: absolute;
+top: 85%;
+left: 24%;
+}
